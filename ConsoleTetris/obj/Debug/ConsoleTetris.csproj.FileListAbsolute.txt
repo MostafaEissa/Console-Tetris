@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.exe
+c:\users\user\documents\visual studio 2013\Projects\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.pdb
+c:\users\user\documents\visual studio 2013\Projects\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.exe
+c:\users\user\documents\visual studio 2013\Projects\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.pdb
+c:\users\user\documents\visual studio 2013\Projects\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.csprojResolveAssemblyReference.cache
